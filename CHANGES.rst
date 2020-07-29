@@ -1,6 +1,12 @@
 Changelog
 =========
 
+2.13.1+afive.dev1 (2020-07-29)
+------------------------------
+
+- adjustment for String conversion in Plone 5.2 on Python2
+  [joem]
+
 2.13.1 (unreleased)
 -------------------
 
